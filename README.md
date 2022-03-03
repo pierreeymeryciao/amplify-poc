@@ -6,7 +6,9 @@ Install [Amplify CLI](https://docs.amplify.aws/cli/)
 
 In the project directory, run:  
 
-```amplify env checkout dev```
+```bash
+amplify env checkout dev
+```
 
 Then, run the development server:
 
@@ -15,3 +17,7 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Documentation 
+
+[Amplify Doc](https://docs.amplify.aws/)
